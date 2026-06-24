@@ -10,11 +10,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[Tori Garden](https://torigardenkitende.vercel.app/)** — a live project I'm actively developing
+- 🔭 Currently building **[Rent connect](https://rent-connect-ten.vercel.app/)** — a live project I'm actively developing
 - 🌱 Currently leveling up in **React Native**
 - 👯 Open to collaborating on **[TechShop](https://tech-shop-website-silk.vercel.app/)**
-- 🤝 Seeking guidance on **[Student Revision Hub](https://student-revision-hub-is-a-web-based.vercel.app/)**
-- 💼 Portfolio: **[amani-j-partifolio.vercel.app](https://amani-j-partifolio.vercel.app/)**
+- 🤝 Seeking guidance on **[Student Revision Hub](https://rambo-drinks.vercel.app/)**
+- 💼 Portfolio: **[amani-j-partifolio.vercel.app](https://amani-jordan-p.vercel.app/)**
 - ✍️ I write articles at **[my-blog-website-ruddy.vercel.app](https://my-blog-website-ruddy.vercel.app/)**
 - 💬 Ask me about **HTML · CSS · JavaScript · React**
 - 📫 Reach me at **amanijordanweb45@gmail.com**
