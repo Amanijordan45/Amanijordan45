@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amani Jordan
+# 👋 Hi, I'm Amani Jordan Dev
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm **Amani Jordan**, a passionate self-taught Front-End Developer on a journey to become a world-class Software Engineer.
+I'm **Amani Jordan Dev**, a passionate self-taught Front-End Developer on a journey to become a world-class Software Engineer.
 
 Originally from DR Congo and raised in Uganda, my story is built on persistence, continuous learning, and a vision of creating technology that impacts millions of people.
 
