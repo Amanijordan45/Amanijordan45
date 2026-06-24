@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amani Jordan</h1>
+<h1 align="center">Hi 👋, I'm Amani Jordan Dev</h1>
 <h3 align="center">Passionate Frontend Developer from Uganda 🇺🇬</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 - 💼 Portfolio: **[amani-j-partifolio.vercel.app](https://amani-j-partifolio.vercel.app/)**
 - ✍️ I write articles at **[my-blog-website-ruddy.vercel.app](https://my-blog-website-ruddy.vercel.app/)**
 - 💬 Ask me about **HTML · CSS · JavaScript · React**
-- 📫 Reach me at **alainbuhashe87@gmail.com**
+- 📫 Reach me at **amanijordanweb45@gmail.com**
 - ⚡ Fun fact: *I fix bugs for fun… until they fix me*
 
 ---
